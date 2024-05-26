@@ -1,0 +1,9 @@
+python -m pip install whois
+python -m pip install colorama
+python -m pip install datetime
+python -m pip install base64
+python -m pip install bs4
+python -m pip install googlesearch-python
+python -m pip install tls-client
+python -m pip install discord
+python -m pip install discord.py
